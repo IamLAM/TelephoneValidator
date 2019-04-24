@@ -18,7 +18,4 @@ function telephoneCheck(str) {
 
 
 }
-
-
-
 telephoneCheck("555-5555");
